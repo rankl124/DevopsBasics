@@ -4,6 +4,6 @@
   Scratch
 </h2>
 <h2>
-  Good Luck, Great Sergey Zavisha, and we are almost done with the
-  course.Thankyou
+  Good Luck, Great Sergey Zavisha, and we are done with the
+  course. Thankyou
 </h2>
