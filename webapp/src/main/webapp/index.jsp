@@ -5,5 +5,5 @@
 </h2>
 <h2>
   Good Luck, Great Sergey Zavisha, and we are done with the
-  course. Thankyou
+  course. Thankyou!
 </h2>
